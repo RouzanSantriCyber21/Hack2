@@ -4,9 +4,9 @@ print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
 print ("\033[1;32matau silahkan Hubungi WA 6289691465691 ")
 
-username = 'ZheckS4valas1807'      
+username = 'rouzan'      
 
-password = 'S4lvalas'
+password = 'cyber'
 
 
 
@@ -20,15 +20,15 @@ def restart():
 
 def main():
 
-	uname = raw_input("username : ")
+	uname = raw_input("Username : ")
 
-	if uname == username:
+	if uname == Username:
 
-		pwd = raw_input("password : ")
+		pwd = raw_input("Password : ")
 
 
 
-		if pwd == password:
+		if pwd == Password:
 
 			print "\033[1;32mAlhmdllh sudah masuk juga..", 
 
