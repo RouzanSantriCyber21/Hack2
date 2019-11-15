@@ -16,7 +16,7 @@ clear
 # bacot lah
 figlet -f slant "Rouzan Cyber" | lolcat
 echo
-echo  " _____________-=[MENU*HACK]=-____________" | lolcat
+echo  " _____________-=[MENU*HACK]=-_______________________ " | lolcat
 echo  "|                                                   |" | lolcat
 echo  "|  Author      : RouzanCyber                        |" | lolcat
 echo  "|  WhatsApp    : 085865805481                       |" | lolcat
