@@ -1,4 +1,3 @@
-
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
@@ -9,20 +8,20 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 echo
-python2 svls.py
+python2 lock.py
 echo
 clear
 # yang merecode Anak Haram Moga-moga Tangan lu Korengan
 # recode recode tai anjing modal dong
-# [SUBSCRIBE] Zacky Saksakame
-figlet -f standard FB Tools | lolcat
+# bacot lah
+figlet -f slant "Rouzan Cyber" | lolcat
 echo
-echo  " ____________________-=[Private Tools]=-____________________" | lolcat
-echo  "|                                                           |" | lolcat
-echo  "|              Root®Autor      : Zheck|Savalas              |" | lolcat
-echo  "|              Youtube         : Zacky Saksakame            |" | lolcat
-echo  "|              Thanks to       : StussyXTeam                |" | lolcat
-echo  "|___________________________________________________________|" | lolcat
+echo  " _____________-=[MENU*HACK]=-____________" | lolcat
+echo  "|                                                   |" | lolcat
+echo  "|  Author      : RouzanCyber                        |" | lolcat
+echo  "|  WhatsApp    : 085865805481                       |" | lolcat
+echo  "|  Github      : Github.com/RouzanSantriCyber21     |" | lolcat
+echo  "|___________________________________________________|" | lolcat
 date | lolcat
 echo
 echo $i"===================================================="
