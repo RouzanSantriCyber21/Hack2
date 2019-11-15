@@ -2,11 +2,11 @@ import os, sys
 
 print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
-print ("\033[1;32matau silahkan Hubungi WA 6289691465691 ")
+print ("\033[1;32mAtau Silahkan Hubungi WhatsApp : 085865805481 ")
 
-username = 'rouzan'      
+username = 'rouzancyber'      
 
-password = 'cyber'
+password = 'nosystemissafe'
 
 
 
@@ -30,7 +30,7 @@ def main():
 
 		if pwd == Password:
 
-			print "\033[1;32mAlhmdllh sudah masuk juga..", 
+			print "\033[1;32mAlhamdulillah sudah masuk juga..", 
 
 			sys.exit()
 
